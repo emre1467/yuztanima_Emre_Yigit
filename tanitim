@@ -1,0 +1,1 @@
+Sistemimiz online sınavda öğrencinin kopya çekme ihtimalini en aza indirmek için yapılmıştır. Öğrencinin bilgisayarının kamerası vasıtasıyla öğrencinin yüzünü tanır. Ekranda 3 saniye yüz tanınamazsa bir uyarı verir. Ekranda birden fazla kişinin tespit edilmesi halinde ekran görüntüsü alarak sisteme kaydeder.
